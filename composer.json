@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lib\\auto\\":"src"}
+            "lib\\auto\\":"dima-frost/avto/src"}
     }
 
 }
