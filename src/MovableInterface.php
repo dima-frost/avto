@@ -1,5 +1,5 @@
 <?php
-namespace package\avto\;
+namespace lib\auto;
 
 interface MovableInterface
 {
